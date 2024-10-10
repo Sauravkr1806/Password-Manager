@@ -6,6 +6,7 @@ This project is a simple password manager implemented in Python using the Tkinte
 
 # Run on Terminal
 
+
 # Table Content
 
 # Introduction
