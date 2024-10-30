@@ -18,3 +18,4 @@ This project is a simple password manager implemented in Python using the Tkinte
 # Technologies Used
 
 # Conclusion
+The Password Manager is a simple yet powerful tool for generating and checking the strength of passwords. It allows users to create strong passwords and check if their existing passwords have been breached in the past. The modular architecture and use of external libraries make the program easy to maintain and extend in the future.
